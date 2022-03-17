@@ -2,4 +2,5 @@
 
 What I learned during this project (September 2021):
 - JavaScript methods push() and pop()
-- CSS styling, gradient background colour
+- CSS styling, gradient background colour, flexbox
+- Practiced implementing eventlisteners
